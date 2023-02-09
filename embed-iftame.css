@@ -159,8 +159,11 @@ display: inline-block;
 }
 
 .btn-dark {
-    color: #ffffff;
-    background-color: #034fa1;
-    border-color: #ffffff;
-    box-shadow: 0px 0px 0 0px #3a496b;
+       background-color: #034fa1;
+    color: white;
+    height: 10%;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    border: 3px solid #ffffff;
 }
