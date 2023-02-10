@@ -52,15 +52,15 @@ display: inline-block;
     overflow: hidden
 }
 
-.btnZHE {
-    background-color: red;
+.btncivil {
+    background-color: darkorange;
     border: 3.5px solid #033162;
     color: #fff;
     text-align: center;
     font-size: 14px;
     cursor: pointer;
-    width: 115px;
-    height: 50;
+    width: 70px;
+    height: 30px;
     display: inline-block;
     overflow: hidden
 }
